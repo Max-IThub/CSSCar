@@ -1,0 +1,152 @@
+.carContainer{
+width: 500px;
+height: 500px;
+background-color: inherit;
+border: 5px solid black;
+background-size: 500px 500px;
+background-image: url(../carMax/assets/img/background.png) ;
+background-repeat: no-repeat;
+}
+
+.car{
+	width: 300px;
+	height: 100px;
+	border: 5px solid black;
+	margin-left: 70px;	
+	margin-top: 250px;
+	border-radius:15px 15px 15px 15px;
+	background-size: 300px 100px;
+	background-repeat: no-repeat;
+	background-image: url(../carMax/assets/img/container.png);
+}
+
+.cabine{
+	width: 60px;
+	height: 100px;
+	border: 5px solid black;
+	margin-left: 385px;	
+	margin-top: -110px;
+	border-radius: 10px;
+	background-color: darkgreen;
+}
+
+.chassis{
+	width: 378px;
+	height: 5px;
+	background-color: black;
+	margin-left: 75px;	
+	margin-top: -5px;
+	border-radius:50%;
+}
+
+.wheel1{
+	width: 50px;
+	height: 50px;
+	border:5px solid black;
+	margin-left: 75px;	
+	margin-top: -1px;
+	border-radius:50%;
+	background-color: gray;
+}
+
+.wheel1D{
+	width: 40px;
+	height: 40px;
+	border:5px dotted black;
+	border-radius:50%;
+}
+
+.wheel1D1{
+	width: 10px;
+	height: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	border:5px solid black;
+	border-radius: 50%;
+	background-color: black;
+}
+
+.wheel2{
+	width: 50px;
+	height: 50px;
+	border:5px solid black;
+	margin-left: 135px;	
+	margin-top: -60px;
+	border-radius:50%;
+	background-color: gray;
+}
+
+.wheel2D{
+	width: 40px;
+	height: 40px;
+	border:5px dotted black;
+	border-radius:50%;
+}
+
+.wheel2D2{
+	width: 10px;
+	height: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	border:5px solid black;
+	border-radius: 50%;
+	background-color: black;
+}
+
+
+.wheel3{
+	width: 50px;
+	height: 50px;
+	border:5px solid black;
+	margin-left: 390px;	
+	margin-top: -60px;
+	border-radius:50%;
+	background-color: gray;
+
+}
+
+.wheel3D{
+	width: 40px;
+	height: 40px;
+	border:5px dotted black;
+	border-radius:50%;
+}
+
+.wheel3D3{
+	width: 10px;
+	height: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+	border:5px solid black;
+	border-radius: 50%;
+	background-color: black;
+}
+
+
+.pilot_window{
+	width: 50px;
+	height: 50px;
+	border:5px solid black;
+/*	border-radius: 10px;*/
+	margin-top:-160px;
+	margin-left:390px;
+	background-color: lightblue;
+	background-image: url(../carMax/assets/img/pilot.png);
+	background-size: 50px 50px;
+}
+
+.door{
+	width: 52px;
+	height: 30px;
+	border: 5px solid black;
+	margin-top: 61px;
+}
+
+.handle{
+	width: 5px;
+	height: 2px;
+	border: 3px solid black;
+	margin-top: 10px;
+	margin-left: 3px;
+	border-radius: 5px;
+}
